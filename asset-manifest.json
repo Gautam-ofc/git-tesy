@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gautam-ofc/git-tesy/static/css/main.48fdfb09.css",
+    "main.js": "/Gautam-ofc/git-tesy/static/js/main.ce163513.js",
+    "index.html": "/Gautam-ofc/git-tesy/index.html",
+    "main.48fdfb09.css.map": "/Gautam-ofc/git-tesy/static/css/main.48fdfb09.css.map",
+    "main.ce163513.js.map": "/Gautam-ofc/git-tesy/static/js/main.ce163513.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48fdfb09.css",
+    "static/js/main.ce163513.js"
+  ]
+}
